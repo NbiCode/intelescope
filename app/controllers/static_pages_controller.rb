@@ -10,4 +10,8 @@ class StaticPagesController < ApplicationController
 
   def faq
   end
+
+  def ai
+  end
+
 end
